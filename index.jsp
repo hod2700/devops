@@ -4,7 +4,7 @@
     <title>Simple JSP App</title>
 </head>
 <body>
-    <h2>Welcome to hodaya App</h2>
+    <h2>Welcome to our App</h2>
 
     <!-- Input text box and button -->
     <form action="result.jsp" method="post">
