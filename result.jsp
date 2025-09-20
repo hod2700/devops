@@ -4,7 +4,7 @@
     <title>Result</title>
 </head>
 <body>
-    <h2>Hello to you !</h2>
+    <h2>Hello!</h2>
     <p>
         You entered: 
         <b><%= request.getParameter("username") %></b>
